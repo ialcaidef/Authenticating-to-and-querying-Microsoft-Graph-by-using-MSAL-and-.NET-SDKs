@@ -3,8 +3,8 @@ AZ-204_LAB06
 
 
 
-# Lab: Authenticating to and querying Microsoft Graph by using MSAL and .NET SDKs
-# Student lab answer key
+# You can see the demonstration images at the end of the document
+
 
 ## Microsoft Azure user interface
 
