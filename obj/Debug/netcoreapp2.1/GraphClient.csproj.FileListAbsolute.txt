@@ -1,0 +1,12 @@
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.deps.json
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.dll
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp2.1\GraphClient.pdb
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.dll
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.pdb
+E:\JUANJO\CURSO2020\MODULO5_AZURE2\AZ-204\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp2.1\GraphClient.genruntimeconfig.cache
